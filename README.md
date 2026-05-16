@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello there!
 
-<!--
-**ProAstroShan/ProAstroShan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am ProAstroShan, also known by my real name: Roshan Kumar. I am a student who has a passion for programming and likes to explore building code for things like data analysis, fundamentals of machine learning, and algorithmic problem solving, using Python. I am not an expert in programming yet, but I am always trying to improve.
 
-Here are some ideas to get you started:
+## What I am focussing on
+Currently, I am focusing on using mostly Python to create text-based games and simulations, simple machine learning algorithms like KNN, and data analysis with visualisations. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Glass Feature Analysis using Correlation Ratio and KNN: [Glass-Prediction](https://github.com/ProAstroShan/Glass-Prediction)
+
+## Tools that I use regularly
+### Development environments
+- Google Colaboratory
+- OnlineGDB Compiler
+
+### Python modules I have learnt to use
+NumPy, Pandas, Random, Time, Matplotlib, Collections
+
+### Languages I am learning
+- Python
+- C++ (learning)
