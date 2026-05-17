@@ -7,8 +7,8 @@ I am ProAstroShan, also known by my real name: Roshan Kumar. I am a student who 
 Currently, I am focusing on using mostly Python to create text-based games and simulations, simple machine learning algorithms like KNN, and data analysis with visualisations. 
 
 ## Featured Projects
-- Glass Feature Analysis using Correlation Ratio and KNN: [Glass-Prediction](https://github.com/ProAstroShan/Glass-Prediction)
-- Review data analysis and visualisation [Product-review-analyser](https://github.com/ProAstroShan/Product-review-analyser)
+1. Review data analysis and visualisation: [Product-review-analyser](https://github.com/ProAstroShan/Product-review-analyser)
+2. Glass Feature Analysis using Correlation Ratio and KNN: [Glass-Prediction](https://github.com/ProAstroShan/Glass-Prediction)
 
 ## Tools that I use regularly
 ### Development environments
@@ -21,3 +21,4 @@ NumPy, Pandas, Random, Time, Matplotlib, Collections
 ### Languages I am learning
 - Python
 - C++ (learning)
+- Bash (learning)
