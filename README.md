@@ -8,7 +8,7 @@ Currently, I am focusing on using mostly Python to create text-based games and s
 
 ## Featured Projects
 1. Review data analysis and visualisation: [Product-review-analyser](https://github.com/ProAstroShan/Product-review-analyser)
-2. Glass Feature Analysis using Correlation Ratio and KNN: [Glass-Prediction](https://github.com/ProAstroShan/Glass-Prediction)
+2. ⚠️ Glass feature classifier under construction ⚠️
 
 ## Tools that I use regularly
 ### Development environments
