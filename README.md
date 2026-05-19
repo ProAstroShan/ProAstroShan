@@ -9,17 +9,17 @@ Currently, I am focusing on using mostly Python to create text-based games and s
 ## Achievements
 Beyond programming, I also actively engage in structured scientific research, having achieved a Silver Award and a Commendation at the Elementz Science Research Conference, alongside participating in the Singapore Physics League.
 
+1. KNN algorithm and visualisation: [Glass-feature-classifier](https://github.com/ProAstroShan/Glass-feature-classifier/tree/main?tab=readme-ov-file)
+
+**Core Insight:** A study investigating the best 2 features in a dataset using KNN and scatter graphs, and how feature sparsity drops KNN predictive performance.
+
 ## Featured Projects
-1. Review data analysis and visualisation: [Product-review-analyser](https://github.com/ProAstroShan/Product-review-analyser)
+2. Review data analysis and visualisation: [Product-review-analyser](https://github.com/ProAstroShan/Product-review-analyser)
 
 **Core Insight:** A program framework using Python to parse and clean raw review data and use formulas to structure data into automated product summaries, evaluated on a Redmi 6 dataset
-  
-2. KNN algorithm and visualisation: [Glass-feature-classifier](https://github.com/ProAstroShan/Glass-feature-classifier/tree/main?tab=readme-ov-file)
-
-**Core Insight:** A study investigating the best 2 features in a dataset, and how feature sparsity drops KNN predictive performance.
 
 ## Tools that I make use of
-### Core Python Data Science Libraries
+### Core Python Libraries in my code
 NumPy, Pandas, Random, Time, Matplotlib, Collections
 
 ### Languages and development environments
