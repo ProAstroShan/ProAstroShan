@@ -16,8 +16,8 @@ Beyond programming, I have also engaged in structured scientific research, achie
 
 ## Featured Projects
 
-### KNN algorithm and visualisation: [Glass-feature-classifier](https://github.com/ProAstroShan/Glass-feature-classifier/tree/main?tab=readme-ov-file)
-**Core Insight:** Investigated feature pair effectiveness in a dataset using KNN and scatter plot visualisation, with observations on how feature sparsity may affect predictive performance.
+### KNN algorithm and visualisation: [Glass-feature-classifier](https://github.com/ProAstroShan/Glass-feature-classifier)
+**Core Insight:** Evaluated all feature pairs in a glass classification dataset using KNN with LOOCV, ranking combinations by classification accuracy to identify the most discriminative feature pairs. Scatter plot visualisation was used to support analysis of class separability and feature behaviour.
 
 ### Review data analysis and visualisation: [Product-review-analyser](https://github.com/ProAstroShan/Product-review-analyser)
 **Core Insight:** Developed a data processing pipeline in Python to clean and transform raw review data into structured scoring outputs using a custom weighting formula, enabling automated product evaluation (initially tested on a Redmi 6 dataset).
