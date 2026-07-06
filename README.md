@@ -11,8 +11,10 @@ Currently, I am working on Python-based projects involving:
 
 These projects are aimed at exploring patterns in data and understanding how computational models can be used to represent both real-world and simulated systems.
 
+I am also exploring the realm of Competitive Programming, heavily making use of c++ to solve challenges under constraints. My goal is to potentially qualify for NOI.
+
 ## Achievements
-Beyond programming, I have also engaged in structured scientific research, achieving a Silver Award and Commendation at the Elementz Science Research Conference, and participating in the Singapore Physics League and the Singapore Junior Physics Olympiad (SJPO).
+Beyond programming, I have also engaged in structured scientific research, achieving a Silver award at the 22nd Elementz Science Project Competition. I have navigated complex constraints exemplified by a Bronze award at the SASMO competition 2024
 
 ## Featured Projects
 
@@ -29,7 +31,8 @@ NumPy, Pandas, Matplotlib
 
 ### Languages and environments
 - Python
-- C++ (learning)
+- C++
 - Bash (learning)
 - Google Colab
 - OnlineGDB
+- Geany
